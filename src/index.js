@@ -19,7 +19,3 @@ root.render(
     </Provider>
   </React.StrictMode>
 );
-
-// TODO: npm i react-router-dom
-// TODO: npm i @fortawesome/fontawesome-svg-core @fortawesome/free-solid-svg-icons @fortawesome/react-fontawesome
-// TODO: npm i @reduxjs/toolkit react-redux
