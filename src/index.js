@@ -19,3 +19,5 @@ root.render(
     </Provider>
   </React.StrictMode>
 );
+
+// TODO: npm i jwt-decode

@@ -19,4 +19,5 @@ const EditNote = () => {
 
   return content;
 };
+
 export default EditNote;
